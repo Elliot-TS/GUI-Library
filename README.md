@@ -1,6 +1,8 @@
 # GUI-Library
 GUI Library using Processing.JS for use within HTML Canvas element
 
+![Gui Demo](https://github.com/Elliot-TS/GUI-Library/blob/main/GUI%20Demo.png)
+
 #Features
 
 ## Windows
